@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magic ID Reader</string>
+    <string name="enter_the_number_id">Enter the number id</string>
+    <string name="submit">Submit</string>
+</resources>
