@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc39944c-b9ec-4b9a-9c3b-ea7a53b6a80b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MagicIDReader.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MagicIDReader.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MagicIDReader.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MagicIDReader.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/github/otakusenpai/magicidreader/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/otakusenpai/magicidreader/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
@@ -27,14 +25,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/otakusenpai/magicidreader/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            <state relative-caret-position="254">
+              <caret line="34" column="84" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
               <folding>
                 <element signature="e#1091#1114#0" expanded="true" />
+                <element signature="e#1118#1143#0" expanded="true" />
                 <element signature="e#1123#1150#0" expanded="true" />
                 <element signature="e#1177#1203#0" expanded="true" />
+                <element signature="e#1235#1260#0" expanded="true" />
                 <element signature="e#1216#1243#0" expanded="true" />
                 <element signature="e#1270#1301#0" expanded="true" />
+                <element signature="e#1361#1386#0" expanded="true" />
                 <element signature="e#1314#1341#0" expanded="true" />
               </folding>
             </state>
@@ -44,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -247,21 +248,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/otakusenpai/magicidreader/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        <state relative-caret-position="254">
+          <caret line="34" column="84" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
           <folding>
             <element signature="e#1091#1114#0" expanded="true" />
+            <element signature="e#1118#1143#0" expanded="true" />
             <element signature="e#1123#1150#0" expanded="true" />
             <element signature="e#1177#1203#0" expanded="true" />
+            <element signature="e#1235#1260#0" expanded="true" />
             <element signature="e#1216#1243#0" expanded="true" />
             <element signature="e#1270#1301#0" expanded="true" />
+            <element signature="e#1361#1386#0" expanded="true" />
             <element signature="e#1314#1341#0" expanded="true" />
           </folding>
         </state>

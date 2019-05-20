@@ -6,4 +6,5 @@
     <string name="gender">Gender:</string>
     <string name="citizenship">Citizenship</string>
     <string name="newline">\n</string>
+    <string name="space">: </string>
 </resources>

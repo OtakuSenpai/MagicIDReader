@@ -30,9 +30,9 @@ class MainActivity : AppCompatActivity() {
                 val sGender = if(text[7] < '5') "Female" else "Male"
                 val citizen = if(text[11] == '0') "SA Citizen" else "Permanent Resident"
 
-                tvShowID.text = getString(R.string.dob) + dob + getString(R.string.newline) +
-                        getString(R.string.gender) + sGender + getString(R.string.newline) +
-                        getString(R.string.citizenship) + citizen + getString(R.string.newline)
+                tvShowID.text = getString(R.string.dob) + getString(R.string.space) + dob + getString(R.string.newline) +
+                        getString(R.string.gender) + getString(R.string.space) + sGender + getString(R.string.newline) +
+                        getString(R.string.citizenship) + getString(R.string.space) + citizen + getString(R.string.newline)
             } catch(e: Exception) {
                 e.printStackTrace()
                 tvShowID.text = e.message
